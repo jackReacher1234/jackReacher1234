@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 My GitHub Account Has Moved!
 
-<!--
-**jackReacher1234/jackReacher1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've recently changed my GitHub username from `jackReacher1234` to `aryalskanda`.
 
-Here are some ideas to get you started:
+However, for some reason, GitHub wasn't redirecting my old profile URL to my new one. Since my old GitHub URL is already referenced in various places, I created this account using my previous username to make sure visitors can still find me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Find my current GitHub profile
+
+**[github.com/aryalskanda](https://github.com/aryalskanda)**
+
+All my active projects, contributions, and development activities are maintained on my new account.
+
+Thanks for stopping by, and see you on my new profile!
